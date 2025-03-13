@@ -1,0 +1,2 @@
+Opengl的封装
+GL.h为include文件

@@ -1,0 +1,7 @@
+.vs
+x64
+RayCaster/x64
+Debug/obj
+Debug/RayCaster.exe
+Debug/RayCaster.pdb
+RayCaster/RayCaster.vcxproj.filters
